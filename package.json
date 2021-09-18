@@ -1,23 +1,22 @@
 {
-  "name": "phase1_websiteproject",
+  "name": "website_project_dev",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
-  "dependencies": {
-    "hint": "^6.1.4"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts": {
+    "start": "node-sass sass/main.scss css/style.css -w"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Medini-Rajendra/Phase1_websiteproject.git"
+    "url": "git+https://github.com/Medini-Rajendra/website_project_dev.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Medini-Rajendra/Phase1_websiteproject/issues"
+    "url": "https://github.com/Medini-Rajendra/website_project_dev/issues"
   },
-  "homepage": "https://github.com/Medini-Rajendra/Phase1_websiteproject#readme"
+  "homepage": "https://github.com/Medini-Rajendra/website_project_dev#readme"
 }
