@@ -272,109 +272,108 @@
   height: 50px;
   left: 14px;
   top: -1980px;
-  background: #FFFFFF;
-  border: 1px solid #DFDFE0;
+  background: #fff;
+  border: 1px solid #dfdfe0;
   box-sizing: border-box;
   border-radius: 4px;
 }
 
 .rectangle16 {
-    position: absolute;
-    width: 330px;
-    height: 52px;
-    left: 22px;
-    top: 4830px;
-    background: #FFFFFF;
-    border: 1px solid #1A2236;
-    box-sizing: border-box;
-    border-radius: 4px;
+  position: absolute;
+  width: 330px;
+  height: 52px;
+  left: 22px;
+  top: 4830px;
+  background: #fff;
+  border: 1px solid #1a2236;
+  box-sizing: border-box;
+  border-radius: 4px;
 }
 
 .rectangle17 {
-    position: absolute;
-    width: 330px;
-    height: 112px;
-    left: 22px;
-    top: 4893px;
-    background: #FFFFFF;
-    border: 1px solid #DFDFE0;
-    box-sizing: border-box;
-    border-radius: 4px;
+  position: absolute;
+  width: 330px;
+  height: 112px;
+  left: 22px;
+  top: 4893px;
+  background: #fff;
+  border: 1px solid #dfdfe0;
+  box-sizing: border-box;
+  border-radius: 4px;
 }
 
 .rectangle18 {
-    position: relative;
-    width: 288px;
-    height: 44px;
-    left: 36px;
-    top: -1725px;
-    
-    background: #1A2236;
+  position: relative;
+  width: 288px;
+  height: 44px;
+  left: 36px;
+  top: -1725px;
+  background: #1a2236;
 }
 
 .rectangle19 {
-    position: relative;
-    width: 100%;
-    height: 150px;
-    left: 0px;
-    top: -1695px;
-    background: #1A2236;
+  position: relative;
+  width: 100%;
+  height: 150px;
+  left: 0;
+  top: -1695px;
+  background: #1a2236;
 }
 
 .text12 {
-    position: absolute;
-    width: 55px;
-    height: 15px;
-    left: 12px;
-    top: 4px; 
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 10px;
-    line-height: 15px;
-    color: #7D7C84;
+  position: absolute;
+  width: 55px;
+  height: 15px;
+  left: 12px;
+  top: 4px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 15px;
+  color: #7d7c84;
 }
 
 .text13 {
-    position: absolute;
-    width: 73px;
-    height: 21px;
-    left: 12px;
-    top: 21px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 21px;
-    color: #1A2236;
+  position: absolute;
+  width: 73px;
+  height: 21px;
+  left: 12px;
+  top: 21px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #1a2236;
 }
 
 .text14 {
-    position: absolute;
-    width: 54px;
-    height: 15px;
-    left: 12px;
-    top: 3px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 10px;
-    line-height: 15px;
-    color: #7D7C84;
+  position: absolute;
+  width: 54px;
+  height: 15px;
+  left: 12px;
+  top: 3px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 15px;
+  color: #7d7c84;
 }
 
 .text15 {
-    position: absolute;
-    width: 222px;
-    height: 15px;
-    left: 12px;
-    top:5px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 21px;
-    color: #7D7C84;
+  position: absolute;
+  width: 222px;
+  height: 15px;
+  left: 12px;
+  top: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #7d7c84;
 }
 
 .border-button_startcolab {
@@ -401,7 +400,7 @@
   border-width: 5px;
 }
 
-/*.text16 {
+/* .text16 {
     position: absolute;
     width: 151px;
     height: 24px;
@@ -414,20 +413,20 @@
     line-height: 24px;
     text-align: center;
     color: #FFFFFF;
-}*/
+} */
 
 .text17 {
-    position: absolute;
-    width: 127px;
-    height: 24px;
-    left: 16px;
-    top: 30px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    color: #92DCDC;
+  position: absolute;
+  width: 127px;
+  height: 24px;
+  left: 16px;
+  top: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #92dcdc;
 }
 
 .text4 {
@@ -592,42 +591,32 @@
 }
 
 .text10 {
-    position: relative;
-    width: 249px;
-    top: -2040px;
-    height: 50px;
-    left: 16px;
-    font-family: 'Playfair Display', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 50px;
-    line-height: 100%;
+  position: relative;
+  width: 249px;
+  top: -2040px;
+  height: 50px;
+  left: 16px;
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 100%;
 }
 
 .text11 {
-  position: absolute;
+  color: #1a2236;
+  position: relative;
+  justify-content: space-around;
   width: 320px;
-  height: 126px;
+  height: 63px;
   left: 16px;
-  top: 224px;
+  top: -2020px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 21px;
-  color: #1a2236;
-    position: relative;
-    justify-content: space-around;
-    width: 320px;
-    height: 63px;
-    left: 16px;
-    top: -2020px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 21px;
-    letter-spacing: -0.01em;
+  letter-spacing: -0.01em;
 }
 
 .grid-container {
@@ -989,7 +978,7 @@
   line-height: 30px;
   top: 240px;
   z-index: 1;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .Frameworks_test {
@@ -1005,7 +994,7 @@
   line-height: 30px;
   top: -425px;
   z-index: 1;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .Skills_test {
@@ -1021,7 +1010,7 @@
   line-height: 30px;
   top: -1230px;
   z-index: 1;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .img5 {
@@ -1055,7 +1044,7 @@
   width: 102px;
   height: 102px;
   left: 248px;
-  top: -622px;  
+  top: -622px;
 }
 
 .img9 {
@@ -1072,7 +1061,7 @@
   width: 102px;
   height: 102px;
   left: 248px;
-  top: -1427px;  
+  top: -1427px;
 }
 
 .img11 {
@@ -1081,63 +1070,63 @@
 }
 
 .img12 {
-    position: absolute;
-    width: 22px;
-    height: 22px;
-    left: 158px;
-    top: 31px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 158px;
+  top: 31px;
 }
 
 .img13 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 16px;
-    top: 85px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 16px;
+  top: 85px;
 }
 
 .img14 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 70px;
-    top: 85px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 70px;
+  top: 85px;
 }
 
 .img15 {
-    position: absolute;
-    left: 122px;
-    right: 0%;
-    top: 88px;
+  position: absolute;
+  left: 122px;
+  right: 0%;
+  top: 88px;
 }
 
 .img16 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 175px;
-    top: 87px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 175px;
+  top: 87px;
 }
 
 .img17 {
-    position: absolute;
-    left: 232px;
-    right: 0%;
-    top: 89px;
+  position: absolute;
+  left: 232px;
+  right: 0%;
+  top: 89px;
 }
 
 .img18 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    right: 16px;
-    top: 87px;
-    left: 290px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  right: 16px;
+  top: 87px;
+  left: 290px;
 }
 
 .align-left-item {
-    position: relative;
-    top: -2070px;
+  position: relative;
+  top: -2070px;
 }
 
 .table {
@@ -1180,7 +1169,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .rubylist {
@@ -1196,7 +1185,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .htmllist {
@@ -1212,7 +1201,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .csslist {
@@ -1228,7 +1217,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .bootstraplist {
@@ -1244,7 +1233,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .rubyraillist {
@@ -1260,7 +1249,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .rspeclist {
@@ -1276,7 +1265,7 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .caplist {
@@ -1292,101 +1281,101 @@ ul#list-horizontal2 {
   font-size: 18px;
   line-height: 27px;
   letter-spacing: -0.0525em;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .sellist {
-    position: relative;
-    top: -1300px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -1300px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
 
 .codekitlist {
-    position: relative;
-    top: -1670px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -1670px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
 
 .codepenlist {
-    position: relative;
-    top: -1775px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -1775px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
 
 .githublist {
-    position: relative;
-    top: -1880px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -1880px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
 
 .gitlablist {
-    position: relative;
-    top: -1985px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -1985px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
 
 .termlist {
-    position: relative;
-    top: -2090px;
-    left: -5px;
-    z-index: 1;
-    width: 178px;
-    height: 135px;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    letter-spacing: -0.0525em;
-    color: #FFFFFF;
+  position: relative;
+  top: -2090px;
+  left: -5px;
+  z-index: 1;
+  width: 178px;
+  height: 135px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: -0.0525em;
+  color: #fff;
 }
